@@ -1,0 +1,2 @@
+# triqui
+juego de triqui
